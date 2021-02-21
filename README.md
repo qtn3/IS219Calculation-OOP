@@ -2,7 +2,14 @@
 
 Principles of Object Oriented Programming
 1. Abstraction
+function Square (a, b) {
+    return Math.pow(a, b);
+}
+module.exports = Square;
 
+static Create(a, b, op){
+        return new Calculation(a, b, op);
+    }
 
 2. Encapsulation:
 The process of wrapping property and function within a single unit is known as encapsulation. 
