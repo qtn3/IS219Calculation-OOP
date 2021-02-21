@@ -1,4 +1,5 @@
-
+[![Coverage Status](https://coveralls.io/repos/github/qtn3/IS219Calculation-OOP/badge.svg?branch=master)](https://coveralls.io/github/qtn3/IS219Calculation-OOP?branch=master)
+[![Build Status](https://travis-ci.org/qtn3/IS219Calculation-OOP.svg?branch=master)](https://travis-ci.org/qtn3/IS219Calculation-OOP)
 
 Principles of Object Oriented Programming
 1. Abstraction
